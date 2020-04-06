@@ -1,0 +1,6 @@
+---
+# install_python-apt/tasks/main.yml
+
+- name: 'Install python-apt'
+  raw: 'apt-get install python-apt'
+  when: 'ansible_os_family == "Debian"'
