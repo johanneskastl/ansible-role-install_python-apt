@@ -9,17 +9,18 @@ galaxy_info:
   min_ansible_version: 2.4
 
   platforms:
-  - name: Debian
-    versions:
-    - 8
-    - 9
-    - 10
-  - name: Ubuntu
-    versions:
-    - 14.04
-    - 16.04
-    - 18.04
-    - 20.04
+    - name: Debian
+      versions:
+        - 8
+        - 9
+        - 10
+        - 11
+    - name: Ubuntu
+      versions:
+        - 14.04
+        - 16.04
+        - 18.04
+        - 20.04
 
   galaxy_tags: []
 
