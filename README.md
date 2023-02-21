@@ -25,7 +25,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: 'johanneskastl.install_python-apt' }
+         - role: 'johanneskastl.install_python-apt'
 
 License
 -------
