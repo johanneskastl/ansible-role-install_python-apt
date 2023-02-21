@@ -3,7 +3,7 @@
 install_python-apt
 =========
 
-Install python-apt on Debian/Ubuntu via raw module.
+Install python-apt on Debian/Ubuntu via the `raw` module.
 
 Requirements
 ------------
